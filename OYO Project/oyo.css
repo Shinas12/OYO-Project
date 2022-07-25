@@ -1,0 +1,1086 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    cursor: pointer;
+}
+
+
+#main{
+    width: 100%;
+    height: 2230px;
+    background: aquamarine;
+}
+#headerbox1{
+    width: 100%;
+    height: 70px;
+    background-color: #fff;
+}
+#headerbox2{
+    width: 100%;
+    height: 42px;
+    background-color:#edeff2;
+    border: 1px solid;
+}
+#oyoimage{
+    padding-top: 21px;
+    padding-bottom: 21px;
+    width: 78px;
+    height: 26px;
+}
+#oyodiv{
+    margin-left: 82px;
+    height: 100%;
+    width: 375px;
+    background:#fff ;
+    float: left;
+}
+#memberdiv{
+    margin-left: 0px;
+    height: 100%;
+    width: 238px;
+    background: #fff;
+    float:left
+}
+#memberlogodiv{
+    height: 100%;
+    width: 25%;
+    background-color:#fff;
+    float: left;
+
+}
+#membertextdiv{
+    height: 50%;
+    width: 75%;
+    padding-left: 60px;
+}
+#membertext{
+    FONT-FAMILY:Inter, sans-serif;
+    FONT-SIZE:14px;
+    LINE-HEIGHT:16.8px;
+    TEXT-ALIGN:start;
+    LETTER-SPACING:normal;
+    padding-top: 20px;
+    color: #212121;
+    background: #fff;
+}
+#offdiv{
+    padding-left:60px ;
+    width: 75%;
+    height: 50%;
+    background-color: #fff;
+}
+#offtext{
+    FONT-FAMILY:Inter, sans-serif;
+    FONT-SIZE:12.5px;
+    LINE-HEIGHT:14.4px;
+    TEXT-ALIGN:start;
+    LETTER-SPACING:normal;
+    padding-top: 5px;
+    color:gray;
+
+}
+#wimage{
+    padding-top: 25px;
+    padding-left: 25px;
+    width:24px ;
+    height: 18px;
+}
+#businessdiv{
+    height: 100%;
+    width: 238px;
+    background-color: #fff;
+    float: left;
+    border: 1px grey solid;
+}
+.businesslogo{
+    height: 100%;
+    width: 25%;
+    background-color:#fff;
+    float: left;
+
+}
+.material-symbols-outlined{
+    padding-left: 25px;
+    padding-top: 23px;
+}
+.businesstext{
+    padding-left: 60px;
+    height: 50%;
+    width: 75%;
+    background-color:#fff;
+
+}
+.oyoforbusiness{
+    FONT-FAMILY:Inter, sans-serif;
+    FONT-SIZE:14px;
+    LINE-HEIGHT:16.8px;
+    TEXT-ALIGN:start;
+    LETTER-SPACING:normal;
+    padding-top: 20px;
+}
+.corporate{
+    FONT-FAMILY:Inter, sans-serif;
+    FONT-SIZE:12.5px;
+    LINE-HEIGHT:14.4px;
+    TEXT-ALIGN:start;
+    LETTER-SPACING:normal;
+    padding-top: 5px;
+    color:gray;
+}
+.coporatediv{
+    padding-left: 60px;
+    height: 50%;
+    width: 75%;
+    background-color:#fff;
+
+}
+#propertydiv{
+    width: 220px;
+    height: 100%;
+    background-color: #fff;
+    float: left;
+    border: 1px grey solid;
+}
+#propertytext{
+    padding-left: 60px;
+    height: 50%;
+    width: 75%;
+    background-color: #fff;
+
+}
+#englishdiv{
+    height: 100%;
+    width: 184px;
+    background-color: #fff;
+    float: left;
+    border: 1px grey solid;
+}
+#langugeselect{
+    height: 60%;
+    width: 75%;
+    background-color: #fff;
+    padding-left:60px;
+}
+#selectkey{
+    padding-left: 5px;
+    
+}
+#languageselect1{
+    height: 40%;
+    width: 75%;
+    background-color:#fff;
+    padding-left:60px;
+}
+#logindiv{
+    height: 100%;
+    width: 140px;
+    float: left;
+    background-color: #fff;
+    border: 1px grey solid;
+}
+#loginpartition1{
+    height: 40%;
+    width: 75%;
+    background-color: #fff;
+    padding-left:40px;
+
+}
+#loginpartition2{
+    height: 60%;
+    width: 75%;
+    background-color: #fff;
+    padding-left:40px;
+}
+select{
+    border: none;
+    background-color: transparent;
+}
+#englishdiv:hover{
+    background-color: gray;
+}
+#logintext{
+    padding-left: 15px;
+    border: none;
+    background-color: transparent;
+}
+#logindiv:hover{
+    background-color: gainsboro;
+   
+}
+#headerbox3{
+    width: 87%;
+    height: 158px;
+    background-color: #db233f;
+    padding-left: 198px;
+    padding-top: 22px;
+}
+#ul1{
+    text-decoration: none;
+    padding-top: 12px;
+}
+.li1{
+ display: inline;
+ FONT-FAMILY:Inter, sans-serif;
+FONT-SIZE:16px;
+padding-left: 63px;
+color: #89867e;
+
+}
+#inisdeheaderbox3{
+    width: 1126px;
+    height: 122px;
+    background-color: #fff;
+}
+#bigfontover{
+    width: 100%;
+    height: 47%;
+    background-color:#db233f;
+}
+#Searchdiv{
+    width: 100%;
+    height: 54%;
+    background-color: #db233f;
+    padding-top: 11px;
+}
+#overtext{
+    font-family :Inter, sans-serif;
+    font-size:33px;
+    color:#fff;
+    padding-left: 150px;
+    padding-top: 10px;
+}
+#insidesearchdiv{
+    background-color: #fff;
+    width: 100%;
+    height: 86%;
+    border-radius: 4px;
+}
+#realsearchdiv{
+ width: 38.6%;
+ height: 91%;
+ background-color: #fff;
+ float: left;
+ padding-left: 10px;
+ padding-top: 5px;
+ border-radius: 4px;
+ 
+}
+#datediv{
+    width: 23%;
+    height: 98%;
+    background-color: #fff;
+    float: left;
+    border: #212121 1px solid;
+
+}
+#roomdiv{
+    width: 23%;
+    height: 98%;
+    background-color: #fff;
+    float: left;
+    border: #212121 1px solid;
+
+}
+#searchbuttondiv{
+    width: 13%;
+    height: 80%;
+    background-color: #1ab64f;
+    float: left;
+    border-radius: 4px;
+    border: #212121 1px solid;
+
+}
+#insiderealsearchdiv{
+    width: 75%;
+    height: 80%;
+    background-color: #fff;
+    float: left;
+}
+#searchinput{
+    width: 100%;
+    height: 100%;
+    FONT-FAMILY:Inter, sans-serif;
+    FONT-SIZE:16px;
+    LINE-HEIGHT:16px;
+    background-color: transparent;
+    border: none;
+}
+#nearmediv{
+    width: 18%;
+    height: 61%;
+    background-color:#fff;
+    float: left;
+    padding-top: 8px;
+    padding-left: 20px;
+    
+}
+#nearmetext{
+    font-size: 12px;
+}
+.navigation{
+    width: 10px;
+}
+#nearmebutton{
+    border-radius: 6px;
+    width: 75px;
+    height: 25px;
+    background-color:#d9dbdd;
+    border: none;
+
+}
+#navigationimage{
+    width: 20px;
+    height: 20px;
+}
+#imagediv{
+height: 100%;
+width: 25%;
+float: left;
+background-color:transparent;
+}
+#nearmetextdiv{
+    height: 86%;
+    width: 75%;
+    float: left;
+    background-color:transparent;
+    padding-top: 5px;
+}
+#datedivfirsthalf{
+    width: 50%;
+    height: 100%;
+    background-color: #fff;
+    float: left;
+}
+#datedivsecondhalf{
+    width: 50%;
+    height: 100%;
+    background-color:#fff;
+    float: left;
+
+}
+#datefirsthalf1{
+    width: 80%;
+    height: 100%;
+    background-color: #fff;
+    float: left;
+    
+}
+.dateselect{
+    width: 100%;
+    height: 90%;
+    font-size: 16px;
+    border: none;
+}
+#hifen{
+    float: left;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+#roomdivinsidediv{
+    float: left;
+    height: 98%;
+    width: 75%;
+    background-color: #fff;
+}
+#roomselect{
+    width: 100%;
+    height: 100%;
+    font-size: 16px;
+}
+#searchbuttondivbutton{
+    width: 100%;
+    height: 100%;
+    background-color: #1ab64f;
+    border: none;
+}
+#searchtext{
+    font-size:20px;
+    color: #fff;
+
+}
+#searchbuttondiv{
+    width: 13.9%;
+    height: 100%;
+}
+#searchbuttondivbutton:hover{
+    background-color: darkgreen;
+}
+#header4photodiv{
+    padding-left: 80px;
+    padding-top: 50px;
+
+}
+#header4{
+    width: 100%;
+    height: 10.5%;
+    background-color: #fff;
+}
+#header4photoadjust{
+    height: 134px;
+    width: 1358px;
+    border-radius: 6px;
+
+}
+#header5{
+    width: 100%;
+    height: 14.2%;
+    background-color: #fff;
+}
+#header5photoadjust{
+    width: 1358px;
+    height: 292px;
+}
+#header5photodiv{
+    padding-left: 80px;
+}
+#header6{
+    width: 95%;
+    height: 5.8%;
+    background-color: #fff;
+    padding-left: 80px;
+    padding-top: 17px;
+}
+#header6insidediv{
+    width: 1358px;
+    height: 100px;
+    background-color: #fff;
+    border: #d9dbdd 2px solid;
+    border-radius: 7px;
+}
+#header6insidedivinside{
+    height: 78%;
+    width: 388px;
+    float: left;
+    background-color: #fff;
+    padding-top: 22px;
+
+}
+#header6insidedivinside2{
+    height: 80%;
+    width: 536px;
+    float: right;
+    background-color: #fff;
+    padding-top: 20px;
+}
+#header6insidedivinsidediv{
+    width: 369px;
+    height: 60px;
+    background-color: #fff;
+    float: right;
+}
+#header6image{
+    height: 100%;
+    width: 56px;
+    float: left;
+    background-color: #fff;
+}
+#header6image2{
+    height: 80%;
+    width: 282px;
+    float: right;
+}
+#image6{
+    height: 96%;
+    width: 54px;
+}
+#getaccess{
+    height: 50%;
+    width: 100%;
+    background-color: #fff;
+}
+#onlybestdeals{
+    height: 50%;
+    width: 100%;
+    background-color: #fff;
+}
+#getacesstext{
+    FONT-FAMILY:Inter, sans-serif;
+    FONT-SIZE:20px;
+    LINE-HEIGHT:26px;
+    TEXT-ALIGN:start;
+    LETTER-SPACING:-0.28px;
+
+}
+#onlybestdealstext{
+    FONT-FAMILY:Inter, sans-serif;
+    FONT-SIZE:16px;
+    LINE-HEIGHT:24px;
+    TEXT-ALIGN:start;
+    LETTER-SPACING:normal;
+    color:gray;
+
+}
+#emailnotifydiv{
+    width: 487px;
+    height: 59px;
+    float: left;
+    background-color: #fff;
+    padding-top: 10px;
+}
+#emaildiv{
+    width: 330px;
+    height: 45px;
+    float: left;
+    background-color:#fff;
+    border-radius: 6px;
+}
+#email{
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;
+    border: #89867e 1px solid;
+    font-size: 15px;
+}
+#notifydiv{
+    width: 142px;
+    height: 45px;
+    background-color:#fff;
+    float: right;
+    border-radius: 6px;
+}
+#notifybutton{
+    width: 100%;
+    height: 100%;
+    background-color: #ee2a24;
+    border-radius: 6px;
+    border: none;
+
+}
+#notifytext{
+    font-family :Inter, sans-serif;
+    font-size:14px;
+    line-height:24px;
+    color: #fff;
+}
+#header7{
+    width: 100%;
+    height: 460px;
+    background-color: #f3f5f7;
+    padding-top: 37px;
+}
+#insideheader7div{
+    width: 737px;
+    height: 407px;
+    background-color: #f3f5f7;
+    float: left;
+    
+}
+#insideheader7div2{
+    width: 740px;
+    height: 385px;
+    float: right;
+    background-color: #f3f5f7;
+    padding-top: 23px;
+}
+#TextWorldsleadingdiv{
+    height: 7.35%;
+    width: 100;
+    background-color:#f3f5f7;
+    margin-bottom: 23px;
+
+}
+#moredestinationdiv{
+   height: 5.65%;
+   width: 100%;
+   background-color: #f3f5f7;
+   margin-bottom: 33px;
+}
+#countriesdiv{
+    height: 14.3%;
+    width: 100%;
+    background-color: #f3f5f7;
+    margin-bottom: 37px;
+
+}
+#worlddiv{
+    height: 26%;
+    width: 100%;
+    background-color: #f3f5f7;
+    padding-top: 19px;
+
+}
+#worldtext{
+    height: 100%;
+    font-family :Inter, sans-serif;
+    font-size:26px;
+    color:#333333;
+}
+#destinationtext{
+    font-family:Inter, sans-serif;
+    font-size:16px;
+    color:#000000;
+}
+#thirtyfive{
+    height: 100%;
+    width: 63px;
+    background-color: #f3f5f7;
+    float: left;
+}
+#space{
+    height: 100%;
+    width: 60px;
+    background-color: #f3f5f7;
+    float:left;
+}
+#thousand{
+    height: 100%;
+    width: 150px;
+    background-color: #f3f5f7;
+    float: left;
+}
+.thirtytextdiv{
+    width: 100%;
+    height: 66%;
+    float: left;
+    background-color: #f3f5f7;
+
+}
+.thirtybelowtextdiv{
+    width: 100%;
+    height: 34%;
+    float: left;
+    background-color: #f3f5f7;
+}
+.thirtytext{
+    font-family:Inter, sans-serif;
+    font-size:33px;
+}
+.hotelsandrooms{
+    font-family:Inter, sans-serif;
+    font-size:14px;
+    color:#000000;
+}
+#slashimage{
+    width: 55px;
+    height: 55px;
+    color: #89867e;
+}
+#indiadiv{
+    width: 100%;
+    height: 18px;
+    float: left;
+    background-color: #f3f5f7;
+    margin-bottom: 38px;
+}
+#nepaldiv{
+    width: 100%;
+    height: 18px;
+    float: left;
+    background-color: #f3f5f7;
+}
+#india{
+  height: 100%;
+  width: 60px;
+  float: left;
+  background-color: #f3f5f7;
+  margin-right: 162px;
+}
+#china{
+    height: 100%;
+    width: 60px;
+    float: left;
+    background-color:#f3f5f7;
+    margin-right: 157px;
+  }
+  #malaysia{
+    height: 100%;
+    width: 60px;
+    float: left;
+    background-color: #f3f5f7;
+  }
+  #nepal{
+    height: 100%;
+    width: 60px;
+    float: left;
+    background-color: #f3f5f7;
+    margin-right: 162px;
+  }
+  #indonasia{
+      height: 100%;
+      width: 60px;
+      float: left;
+      background-color:#f3f5f7;
+      margin-right: 157px;
+    }
+    #uae{
+      height: 100%;
+      width: 60px;
+      float: left;
+      background-color: #f3f5f7;
+    }
+    .textdiv{
+        height: 100%;
+        width: 30%;
+        float: left;
+        background-color: #f3f5f7;
+
+    }
+    .textdiv2{
+        height: 100%;
+        width: 70%;
+        float: left;
+        background-color: #f3f5f7;
+    }
+    .indiatext{
+        font-size: 16px;
+        font-family :Inter, sans-serif;
+
+    }
+    #dotimage{
+        width: 20px;
+        height: 20px;
+    }
+    #uaeimage{
+        width: 96px;
+        height: 120px;
+        position: relative;
+        bottom: 340px;
+        left: 180px;
+    }
+    #indiacirclediv{
+        width: 10px;
+        height: 10px;
+        background-color: greenyellow;
+        border-radius: 360px;
+        margin-top: 5px;
+    }
+    #chinacirclediv{
+        width: 10px;
+        height: 10px;
+        background-color: red;
+        border-radius: 360px;
+        margin-top: 5px;
+    }
+    #malcirclediv{
+        width: 10px;
+        height: 10px;
+        background-color: orange;
+        border-radius: 360px;
+        margin-top: 5px;
+    }
+    #nepcirclediv{
+        width: 10px;
+        height: 10px;
+        background-color: lightblue;
+        border-radius: 360px;
+        margin-top: 5px;
+    }
+    #indcirclediv{
+        width: 10px;
+        height: 10px;
+        background-color: pink;
+        border-radius: 360px;
+        margin-top: 5px;
+        
+    }
+    #uaecirclediv{
+        width: 10px;
+        height: 10px;
+        background-color: violet;
+        border-radius: 360px;
+        margin-top: 5px;
+    }
+    #image2{
+        width: 96px;
+        height: 120px;
+        position: relative;
+        bottom: 380px;
+        left: 230px;
+    }
+    #image3{
+        width: 105px;
+        height: 120px;
+        position: relative;
+        bottom: 200px;
+        left: 90px;
+    }
+    #image4{
+        width: 110px;
+        height: 110px;
+        position: relative;
+        bottom: 400px;
+        left: 170px;
+    }
+    #image5{
+        width: 110px;
+        height: 80px;
+        position: relative;
+        bottom: 280px;
+        left: 20px;
+    }
+    #image7{
+        width: 110px;
+        height: 140px;
+        position: relative;
+        bottom: 115px;
+        right: 150px;
+    }
+    #footer{
+        width: 100%;
+        height: 788px;
+        background-color: #1ab64f;
+        float: left;
+    }
+    #insidefooter1{
+        width: 100%;
+        height: 12.10%;
+        float: left;
+        background-color: #6d787d;
+        border: #fff 1px solid;
+    }
+    #insidefooter2{
+        width: 100%;
+        height: 26.5%;
+        float: left;
+        background-color: #6d787d;
+        border: #fff 1px solid;
+
+
+    }
+    #insidefooter3{
+        width: 100%;
+        height: 50%;
+        float: left;
+        background-color: #6d787d;
+        border: #fff 1px solid;
+
+    }
+    #insidefooter4{
+        width: 100%;
+        height: 11.4%;
+        float: left;
+        background-color: #6d787d;
+        border: #fff 1px solid;
+    }
+    #footer1firsthalf{
+        height: 100%;
+        width: 627px;
+        float: left;
+        background-color: #6d787d;
+
+    }
+    #footer1sefcondhalf{
+        height: 100%;
+        width: 700px;
+        float: right;
+        background-color: #6d787d;
+
+    }
+    #worldslargestdiv{
+        height: 25px;
+        width: 560px;
+        float: right;
+        background-color: #6d787d;
+        margin-top: 30px;
+    }
+    #worldslargesttextdiv{
+        width: 81%;
+        height: 100%;
+        float: right;
+        background-color: #6d787d;
+
+    }
+    #worldslargestoyotextdiv{
+        width: 16.8%;
+        height: 100%;
+        float: left;
+        background-color: #6d787d;
+        padding-left: 12px;
+
+
+    }
+    .worldslargesttext{
+        font-family:Inter, sans-serif;
+         font-size:18px;
+         color: #fff;
+         margin-top: 5px;
+    }
+    #oyotextworldslargest{
+        font-family:Inter, sans-serif; 
+        font-size:30px;
+        color: #fff;
+        margin-left: 18px;
+    
+    }
+    #joinournetworkbusiness{
+        width: 449px;
+        height: 25px;
+        background-color: #6d787d;
+        float: left;
+        margin-top: 30px;
+    }
+    #listyourproperty{
+        width: 172px;
+        height: 45px;
+        float: left;
+        background-color: #fff;
+        margin-top: 20px;
+        border-radius: 7px;
+
+    }
+    #listyourpropertytextdiv{
+        width: 115px;
+        height: 13px;
+        float: right;
+        background-color:#fff;
+        margin-top: 12px;
+        border-radius: 7px;
+    }
+    #imagelistyourproperty{
+        width: 56px;
+        height: 34px;
+        float: left;
+        background-color: #fff;
+        border-radius: 7px;
+    }
+    #proptext{
+        font-family:Inter, sans-serif;
+        font-size:12px;
+        color:#6F787C;
+    }
+    #logofooter{
+        width: 50x;
+        height: 34px;
+        margin-left: 10px;
+
+    }
+    #downloadoyo{
+        width: 433px;
+        height: 148px;
+        float: left;
+        margin-left: 75px;
+        margin-top: 28px;
+        background-color: #6d787d;
+        border: #fff 1px solid;
+    }
+    #aboutus{
+        width: 433px;
+        height: 148px;
+        float: left;
+        margin-top: 28px;
+        background-color: #6d787d;
+        border: #fff 1px solid;
+    }
+    #termsandconditions{
+        width: 433px;
+        height: 148px;
+        float: left;
+        margin-top: 28px;
+        background-color: #6d787d;
+        border: #fff 1px solid;
+    }
+    #downloadoyotextdiv{
+        width: 100%;
+        height: 15px;
+        background-color: #6d787d;
+        float: left;
+    }
+    #appstorediv{
+        width: 100%;
+        height: 55px;
+        background-color: #6d787d;
+        float: left;
+        margin-top: 25px;
+    }
+    #downloadoyotext{
+        font-family:Inter, sans-serif;
+        font-size:17px;
+        color: #fff;
+    }
+    .tablediv{
+        width: 376px;
+        height: 125px;
+        float: left;
+        margin-left: 40px;
+        margin-top: 7px;
+        background-color: #6d787d;
+    }
+    #aboutuslist{
+        height: 100%;
+        width: 50%;
+        float: left;
+        background-color: #6d787d;
+
+    }
+    #officialbloglist{
+        height: 100%;
+        width: 50%;
+        float: left;
+        background-color: #6d787d  ;
+
+    }
+    .li2{
+    color: #fff;
+    margin-bottom: 10px;
+    font-family:Inter, sans-serif;
+    font-size:14px;
+    }
+    .ul{
+        list-style-type:none;
+    }
+    #termsandconditionsinside1{
+        height: 100%;
+        width: 50%;
+        float: left;
+        background-color: #6d787d;
+    }
+    #termsandconditionsinside2{
+        height: 100%;
+        width: 50%;
+        float: left;
+        background-color:#6d787d;
+    }
+    #footer3insidediv{
+        width: 1344px;
+        height: 327px;
+        background-color: bisque;
+        margin-top: 30px;
+        margin-bottom: 34px;
+        margin-left: 77px;
+    }
+    #f3insidedivinsidetop{
+        width: 100%;
+        height: 32px;
+        float: left;
+        background-color: #6d787d;
+    }
+    .f3insidedivinside1{
+        width: 224px;
+        height: 295px;
+        float: left;
+        background-color: #6d787d;
+    }
+    #oyohotelsfooter3{
+        font-family :Inter, sans-serif;
+        font-size:18px;
+        color: #fff;
+    }
+    #footer4footer{
+        width: 1358px;
+        height: 30px;
+        margin-top: 25px;
+        margin-left: 77px;
+        background-color: #6d787d;
+        float: left;
+    }
+    #logofooterdiv{
+          height: 100%;
+          width: 232px;
+          float: left;
+          background-color: #6d787d;
+    }
+    #rightfooterdiv{
+        width: 35%;
+        height: 13px;
+        margin-top: 8px;
+        float: right;
+        background-color: #6d787d;
+    }
+    #stayslimitedtext{
+        font-family:Inter, sans-serif;
+        font-size:12px;
+        color: #fff;
+        float: right;
+    }
